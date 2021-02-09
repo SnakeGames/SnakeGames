@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**SnakeGames/SnakeGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+#### Welcome to my github page!
+##### This is where I post some of my discord bots! I won't put my token,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| All of my bots     | Version that is coded in|
+| ----------- | ----------- |
+| Snake's Utilities      | v12       |
+| Crit Utilities   | v12        |
+
+----
+
+#### NOTE IF YOU COPY MY BOT CODE, YOU WON'T GET ANYWHERE. 
+
+This means that you won't get the experience in coding, you are just copy and pasting. Not good if you want to learn how to code on your own.
+
+----
+
+
