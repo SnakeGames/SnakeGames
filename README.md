@@ -3,12 +3,10 @@
 -----
 
 #### Welcome to my github page!
-##### This is where I post some of my discord bots! I won't put my token,
+##### This is my discord bot tutorial!
 
-| All of my bots     | Version that is coded in|
-| ----------- | ----------- |
-| Snake's Utilities      | v12       |
-| Crit Utilities   | v12        |
+###### All code will show here, no tokens!
+
 
 ----
 
