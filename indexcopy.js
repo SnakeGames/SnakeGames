@@ -5,4 +5,4 @@ bot.on('ready', () => {
     console.log('Ready!')
 });
 
-bot.login('ODU0NTY4NTUyOTQ2MjA0Njgy.YMl0_A.ZRFnnirNjyYG-JCNGo0CW1U5hLs');
+bot.login('TOKEN HERE');
