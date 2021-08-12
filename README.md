@@ -16,4 +16,10 @@ This means that you won't get the experience in coding, you are just copy and pa
 
 ----
 
+###### What did I use to learn how to code discord bots? I used discordjs.guide. 
+
+----
+
+=========== I will change this when I get a chance. Learning markdown.
+
 
